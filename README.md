@@ -18,5 +18,5 @@
 | [POSTLORD](https://github.com/zimonitrome/LD53)      | [Ludum Dare 53](https://ldjam.com/events/ludum-dare/53/postlord)      | Delivery         | Compo | Solo                                                                                       | 208th     |
 | [SpaceSparse](https://github.com/zimonitrome/LD54)   | [Ludum Dare 54](https://ldjam.com/events/ludum-dare/54/spacesparse)   | Limited space    | Jam   | [carljohanskold](https://github.com/carljohanskold), [craftly](https://github.com/craftly) | 565th     |
 | [Farm Fortress](https://github.com/zimonitrome/LD55) | [Ludum Dare 55](https://ldjam.com/events/ludum-dare/55/farm-fortress) | Summoning        | Jam   | Solo                                                                                       | N/Ath     |
-| [(o o)](https://github.com/zimonitrome/LD56)         | [Ludum Dare 56](https://ldjam.com/events/ludum-dare/56/o-o)           | Tiny Creatures   | Compo | Solo                                                                                       | TBA       |
+| [(o o)](https://github.com/zimonitrome/LD56)         | [Ludum Dare 56](https://ldjam.com/events/ludum-dare/56/o-o)           | Tiny Creatures   | Compo | Solo                                                                                       | 153th     |
 
